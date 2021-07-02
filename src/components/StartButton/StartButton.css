@@ -1,0 +1,21 @@
+.start-button {
+  padding: 20px 30px;
+  position: absolute;
+  background-color: #0c08d1;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  /* color: #172ada; */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.start-button:hover {
+  background: #8a94e9;
+}
